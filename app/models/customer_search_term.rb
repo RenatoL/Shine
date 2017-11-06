@@ -46,3 +46,4 @@ private
 
 		@order = "lower(email) = " + ActiveRecord::Base.connection.quote(search_term) + " desc, last_name asc"
 	end
+end
