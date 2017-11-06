@@ -1,0 +1,12 @@
+{
+  "name": "shine-pkg",
+  "version": "1.0.0",
+  "description": "Shine app",
+  "main": "index.js",
+  "repository": "https://www.github.com/RenatoL/Shine",
+  "author": "RenatoL",
+  "license": "MIT",
+  "dependencies": {
+    "bootstrap": "^3.3.7"
+  }
+}
